@@ -2,16 +2,6 @@
 
 This guide provides detailed instructions for setting up, customizing, and deploying your portfolio website.
 
-## 📋 Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Content Customization](#content-customization)
-- [Styling Customization](#styling-customization)
-- [Performance Optimization](#performance-optimization)
-- [Deployment](#deployment)
-- [Troubleshooting](#troubleshooting)
-
 ## Prerequisites
 
 - Node.js 16.8.0 or higher

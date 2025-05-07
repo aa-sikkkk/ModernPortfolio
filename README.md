@@ -2,15 +2,6 @@
 
 A sleek, modern portfolio website built with Next.js, featuring smooth animations, interactive UI elements, and a beautiful design. This portfolio showcases professional experience, skills, and projects with stunning visual effects powered by Framer Motion.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Quick Start](#quick-start)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## ✨ Features
 [Modern-Portfolio-Python-Developer-ML-Enthusiast.webm](https://github.com/user-attachments/assets/d7c1704b-4c15-4cfb-b519-93738044d07e)

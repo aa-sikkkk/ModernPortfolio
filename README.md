@@ -1,6 +1,7 @@
 # Modern Portfolio Website
 
 A sleek, modern portfolio website built with Next.js, featuring smooth animations, interactive UI elements, and a beautiful design. This portfolio showcases professional experience, skills, and projects with stunning visual effects powered by Framer Motion.
+<img src="https://github.com/user-attachments/assets/2f307b27-45bc-45d7-b49f-658d85285c5f" height="700" width="400">
 
 
 ## ✨ Features
